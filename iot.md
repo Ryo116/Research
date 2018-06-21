@@ -19,3 +19,13 @@
   </a>
   ]
 </p>
+
+<p>
+  <strong>Security in the Internet of Things:A Review</strong>
+  <br>
+  [
+  <a href="https://ieeexplore.ieee.org/abstract/document/6188257/" rel=nofollow>
+  Paper
+  </a>
+  ]
+</p>
