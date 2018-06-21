@@ -9,3 +9,13 @@
   </a>
   ]
 </p>
+
+<p>
+  <strong>Security of the Internet of Things: perspectives and challenges</strong>
+  <br>
+  [
+  <a href="https://link.springer.com/article/10.1007/s11276-014-0761-7" rel=nofollow>
+  Paper
+  </a>
+  ]
+</p>
