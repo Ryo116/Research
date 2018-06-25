@@ -29,3 +29,13 @@
   </a>
   ]
 </p>
+
+<p>
+  <strong>AI-based Two-Stage Intrusion Detection for Software Defined IoT Networks</strong>
+  <br>
+  [
+  <a href="https://arxiv.org/pdf/1806.02566.pdf" rel=nofollow>
+  Paper
+  </a>
+  ]
+</p>
