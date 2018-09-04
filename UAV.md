@@ -5,7 +5,7 @@
   <br>
   [
   <a href="URL" rel=nofollow>
-  Paper
+  URL(Paper)
   </a>
   ]
 </p>
